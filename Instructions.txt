@@ -1,0 +1,4 @@
+Before Use: run '36106-AT3-group_26_csv_combiner (run before other notebooks)' not book to create combined csvs to be read into model and EDA notebooks. This was done in order to ensure that all group members could access the required data easily and consistently and is based off the provided file directory required by the assignment. As a back up the csv's required for the EDA and model notebooks can be accessed in the 'csv' folder.
+
+Kind regards,
+Group 26.
